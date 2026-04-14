@@ -4,20 +4,23 @@
 
 *Standalone (Offline) Version*
 
+
 ---
 
 <table>
 <tr>
 <td align="center" valign="top">
+<img src="main2.png" alt="Blueprint Editor" width="100%"/>
+<br/> Live app: <br> https://github.com/wmelabs/planbrew-standalone
+</td>
+<td align="center" valign="top">
 <img src="main.png" alt="Fragment Library" width="100%"/>
 <br/><strong>PlanBrew</strong>
 </td>
-<td align="center" valign="top">
-<img src="main2.png" alt="Blueprint Editor" width="100%"/>
-<br/>
-</td>
 </tr>
 </table>
+
+
 
 PlanBrew is a text editing system built around composable **fragments** (pieces of text) and **blueprints** (templates that combine fragments to generate final output).
 
