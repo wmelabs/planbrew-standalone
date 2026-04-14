@@ -10,11 +10,11 @@
 <tr>
 <td align="center" valign="top">
 <img src="main.png" alt="Fragment Library" width="100%"/>
-<br/><strong>Fragment Library</strong>
+<br/><strong>PlanBrew</strong>
 </td>
 <td align="center" valign="top">
 <img src="main2.png" alt="Blueprint Editor" width="100%"/>
-<br/><strong>Blueprint Editor</strong>
+<br/>
 </td>
 </tr>
 </table>
