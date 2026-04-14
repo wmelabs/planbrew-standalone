@@ -1,22 +1,24 @@
-# PlanBrew 1.0.1
+<img src="logo.png" alt="logo" width="200px"/>  
 
 **Composable Text Templating**
 
-*Standalone (Offline) Version*
+*Standalone (Offline) Version* v1.0.1
 
 
 ---
 
 <table>
 <tr>
-<td align="center" valign="top">
-<img src="main2.png" alt="Blueprint Editor" width="100%"/>
-<br/> Live app: <br> https://github.com/wmelabs/planbrew-standalone
-</td>
+
 <td align="center" valign="top">
 <img src="main.png" alt="Fragment Library" width="100%"/>
 <br/><strong>PlanBrew</strong>
 </td>
+<td align="center" valign="top">
+<img src="main2.png" alt="Blueprint Editor" width="100%"/>
+<br/> Live app: <br> https://github.com/wmelabs/planbrew-standalone
+</td>
+
 </tr>
 </table>
 
