@@ -19,7 +19,7 @@
 </tr>
 </table>
 
-PlanBrew is a text editing system built around composable **fragments**  and **blueprints** (templates that combine fragments to generate final output).
+PlanBrew is a text editing system built around composable **fragments** (pieces of text) and **blueprints** (templates that combine fragments to generate final output).
 
 PlanBrew can be used to edit prompts for agentic AI routines, posts on social media, or for any task where keeping track of composable text pieces is paramount.
 
