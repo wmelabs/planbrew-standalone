@@ -16,7 +16,7 @@
 </td>
 <td align="center" valign="top">
 <img src="main2.png" alt="Blueprint Editor" width="100%"/>
-<br/> Live app: <br> https://github.com/wmelabs/planbrew-standalone
+<br/> Live app: <br> [https://wmelabs.github.io/planbrew-standalone](https://wmelabs.github.io/planbrew-standalone/)
 </td>
 
 </tr>
