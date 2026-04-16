@@ -4,23 +4,21 @@ New Name: PlanBrewer
 
 **Composable Text Templating**
 
-*Standalone (Offline) Version* v1.0.1
+*Standalone (Offline) Version* v1.0.3
 
 
 ---
 
 <table>
 <tr>
-
-<td align="center" valign="top">
-<img src="main.png" alt="Fragment Library" width="100%"/>
-<br/><strong>PlanBrewer</strong>
-</td>
 <td align="center" valign="top">
 <img src="main2.png" alt="Blueprint Editor" width="100%"/>
 <br/> Live app: <br> https://wmelabs.github.io/planbrew-standalone
 </td>
-
+<td align="center" valign="top">
+<img src="main.png" alt="Fragment Library" width="100%"/>
+<br/><strong>PlanBrewer</strong>
+</td>
 </tr>
 </table>
 
